@@ -44,4 +44,13 @@ void loop() {
 }
 ```
 
+### License Information
+This product is open source!
+
+So, Feel free to download, use or make any changes you like to this file
+Also, you can contact me with email, instagram and telegram to talk about it.
++ Email: Saeedtajikhk@gmail.com
++ Instagram: saeedthk
++ Telegram: SaeedThk
+Your friend Saeed Tajik Hesarkuchak.
 
