@@ -11,3 +11,13 @@ Ultrasonic module can be used to identify obstructions, 1 cm -4 meters. Can be e
 The ultrasound module will be applied to the robot module. With this module, available in the sonar obstacle within the exact distance. Your robot will be able to bat-like sonar to detect by the surroundings, only a small piece of code, you can obstacles to accurate distance control your motor running, so that your robot can easily of avoiding obstacles. 
 
 ![capture](https://s18.picofile.com/file/8440096042/1.jpg)
+
+### How to connect Srf05 to Arduino Uno board
+
+![capture](https://s18.picofile.com/file/8440096050/2.png)
+
+### Sample code 
+
+
+
+
